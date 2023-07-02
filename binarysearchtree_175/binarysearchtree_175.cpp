@@ -103,5 +103,9 @@ int main() {
 		cout << "1. Perform Postorder traversal" << endl;
 		cout << "5. Exit" << endl;
 		cout << "\nEnter ur choice : ";
+
+		char ch;
+		cin >> ch;
+		cout << endl;
 	}
 }
